@@ -1,216 +1,220 @@
 <div align="center">
 
-<!-- Animated Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=200&section=header&text=Seema%20Tiwari&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20BI%20Architect%20%7C%20CEO's%20Office%20Advisor&descAlignY=58&descSize=20&animation=twinkling" />
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Seema%20Tiwari&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=📊%20Data%20Analyst%20%7C%20BI%20Developer%20%7C%20Insight%20Architect&descAlignY=60&descSize=19&animation=fadeIn" />
 
-<!-- Animated Typing Effect -->
+<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&random=false&width=700&lines=👋+Hi%2C+I'm+Seema+Tiwari!;📊+Data+Analyst+%26+BI+Developer;🏢+Assistant+Manager+%40+CEO's+Office;📈+Turning+Raw+Data+into+Business+Insights;🛠️+SQL+%7C+Power+BI+%7C+Looker+Studio+%7C+Excel;🎯+2%2B+Years+of+Analytics+Experience;🌟+Let's+build+data-driven+futures!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&random=false&width=750&lines=SELECT+*+FROM+insights+WHERE+value+%3D+%27high%27;+Transforming+Raw+Data+into+Business+Gold+✨;📊+Power+BI+%7C+Looker+Studio+%7C+Excel+%7C+SQL;🔍+EDA+%7C+KPI+Tracking+%7C+Executive+Reporting;📈+2%2B+Years+%7C+CEO's+Office+%7C+FyndBridge;🧠+Data+Storytelling+%7C+Strategic+Analytics" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Visitor Counter & Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=tiwariseema&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS" alt="Profile Views" />
+![Profile Views](https://komarev.com/ghpvc/?username=tiwariseema&style=flat-square&color=00d4ff&label=Profile+Views)
 &nbsp;
-<img src="https://img.shields.io/github/followers/tiwariseema?style=for-the-badge&color=00e5ff&labelColor=0d1117&label=Followers" alt="Followers" />
+[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/contact-seema-tiwari)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/-tiwariseema788@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tiwariseema788@gmail.com)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<div align="center">
 
-<img align="right" width="350" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="Coding GIF" />
+## 🗂️ `SELECT * FROM seema WHERE role = 'Data Analyst'`
 
-```yaml
-Name       : Seema Tiwari
-Location   : Delhi, India
-Role       : Assistant Manager — Data Analytics
-             (CEO's Office)
-Experience : 2+ Years
+</div>
 
-Focus Areas:
-  - Business Intelligence & Dashboard Design
-  - Stakeholder Reporting (QBR / MBR / C-Suite)
-  - KPI Tracking & Data Quality Management
-  - Cross-functional Collaboration
+```sql
+-- ══════════════════════════════════════════════════════════
+--  ANALYST PROFILE : Seema Tiwari
+-- ══════════════════════════════════════════════════════════
 
-Currently:
-  - Building executive dashboards in Looker Studio
-  - Optimizing SQL-powered data pipelines
-  - Analyzing marketing performance via Google Analytics
+SELECT
+    'Seema Tiwari'              AS full_name,
+    'Assistant Manager'         AS title,
+    'Data Analytics (CEO Ofc.)' AS department,
+    'FyndBridge Consulting'     AS company,
+    'Delhi, India'              AS location,
+    '2+ Years'                  AS experience,
+    TRUE                        AS open_to_work,
 
-Open To   : Data Analyst | BI Analyst | Program Analyst Roles
+    -- Core Competencies
+    ['SQL','Power BI','Excel','Looker Studio',
+     'Google Analytics','Python (Basic)']  AS toolkit,
+
+    -- Domain Expertise
+    ['Executive Reporting','KPI Tracking',
+     'Dashboard Design','EDA',
+     'Stakeholder Management',
+     'Data Storytelling']                  AS specializations
+
+FROM  analysts
+WHERE impact = 'HIGH'
+  AND mindset = 'DATA_DRIVEN';
+
+-- ✅ 1 row returned
 ```
 
-<br clear="right"/>
-
 ---
 
-## 🚀 What I Bring to the Table
+## 📊 My Analytics Toolkit
 
 <div align="center">
 
-| 🎯 Analytics | 📊 Visualization | 🗄️ Data Management | 🤝 Soft Skills |
-|:---:|:---:|:---:|:---:|
-| Product Analytics | Power BI | MySQL | Stakeholder Management |
-| Marketing Analytics | Looker Studio | SQL Querying | Executive Communication |
-| EDA & Insight Gen | Excel Dashboards | Data Hygiene | Project Coordination |
-| KPI Tracking | Google Analytics | ETL Processes | Data Storytelling |
+### 🗃️ Data Querying & Storage
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-</div>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### 🗃️ Data & Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### 📊 Business Intelligence & Visualization
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+### 📈 BI & Data Visualization
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
 ### 💻 Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Pivot Tables](https://img.shields.io/badge/Advanced%20Excel%20Pivots-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### 🧰 Project Management & Workflow
+### 🧰 Workflow & Collaboration
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
 ---
 
-## 💼 Professional Experience
-
-<details open>
-<summary><b>🏢 FyndBridge Consulting Services — Assistant Manager, Data Analytics (CEO's Office)</b> &nbsp;|&nbsp; Apr 2024 – Present</summary>
-
-<br/>
-
-> Reporting directly to the **CEO**, delivering executive-grade analytics that shape strategic business decisions.
-
-- 📈 **Executive Dashboards**: Designed and maintained real-time dashboards in **Google Looker Studio** tracking key business metrics, performance indicators, and operational efficiency.
-- 🔍 **CEO Insight Delivery**: Delivered weekly/monthly data analysis reports highlighting key trends, risks, and opportunities to C-suite leadership.
-- 🧹 **Data Pipeline Optimization**: Automated and optimized backend data workflows using **SQL**, reducing manual reporting time and improving data accuracy.
-- 📣 **Marketing Analytics**: Tracked user engagement, lead generation, and campaign performance via **Google Analytics**, enabling data-backed marketing strategies.
-- 🤝 **Cross-functional Collaboration**: Partnered with senior stakeholders across product, marketing, and operations teams to align data solutions with business goals.
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>⚡ The Spark Foundation — Data Science & Business Analytics Intern</b> &nbsp;|&nbsp; Oct 2023 – Nov 2023</summary>
-
-<br/>
-
-- 📊 **Power BI Dashboards**: Designed and developed **3 interactive Power BI dashboards** using advanced visualizations to communicate complex data insights clearly.
-- 🧼 **Data Quality Management**: Cleaned, validated, and standardized large datasets in Excel, improving data integrity for downstream reporting.
-- 📋 **Actionable Reporting**: Translated complex analyses into executive summaries that promoted data-driven decision making.
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>📚 BYJU'S — Business Development Trainee</b> &nbsp;|&nbsp; Feb 2023 – Apr 2023</summary>
-
-<br/>
-
-- 📞 **Customer Engagement**: Consulted 1,000+ potential customers with tailored learning recommendations, achieving a **15% increase in bookings**.
-- 📉 **Data Reporting**: Managed daily call logs and booking performance reports in **MS Excel**, surfacing insights to optimize sales processes.
-
-</details>
-
----
-
-## 🏆 Certifications & Achievements
+## 📉 Analytics Capabilities at a Glance
 
 <div align="center">
 
-| 🏅 Certification | 🏛️ Issuer | 🔗 |
-|:---|:---|:---:|
-| Google Data Analytics Professional Certificate | Google / Coursera | ✅ |
-| Advanced Excel | Edureka | ✅ |
-| SQL for Data Analytics | Edureka | ✅ |
-| Power BI | Edureka | ✅ |
-| Data Science & Business Analytics | The Spark Foundation | ✅ |
-| Accenture Data Analytics & Visualization Job Simulation | Accenture / Forage | ✅ |
+| Capability | Proficiency |
+|:---|:---|
+| 📊 Dashboard Design (Power BI / Looker) | ████████████████████ Expert |
+| 🗃️ SQL & Database Querying | ████████████████░░░░ Advanced |
+| 📋 Executive / C-Suite Reporting | ████████████████████ Expert |
+| 📈 KPI Tracking & Monitoring | ████████████████████ Expert |
+| 🧹 Data Cleaning & Hygiene | ████████████████░░░░ Advanced |
+| 🔍 Exploratory Data Analysis (EDA) | ███████████████░░░░░ Advanced |
+| 📣 Marketing Analytics (GA4) | ████████████████░░░░ Advanced |
+| 🐍 Python (EDA & Automation) | ████████░░░░░░░░░░░░ Intermediate |
 
 </div>
 
 ---
 
-## 📁 Featured Projects
+## 💼 Work Experience — Data Career Timeline
+
+```
+2024 ──────────────────────────────────────────────────────► Present
+ │
+ ├── 🏢 FyndBridge Consulting Services
+ │       Role    : Assistant Manager — Data Analytics (CEO's Office)
+ │       Stack   : Looker Studio · SQL · Google Analytics · Excel
+ │       Impact  : ► Executive dashboards delivered to CEO weekly
+ │                 ► Optimized SQL pipelines → reduced manual effort
+ │                 ► GA4 insights drove marketing strategy decisions
+ │                 ► QBR/MBR reporting for C-suite leadership
+ │
+2023 ──────────────────────────────────────────────────────────────
+ │
+ ├── ⚡ The Spark Foundation  (Internship — Oct–Nov 2023)
+ │       Stack   : Power BI · Excel · Data Visualization
+ │       Impact  : ► Built 3 Power BI dashboards for strategic insight
+ │                 ► Cleaned & standardized large-scale Excel datasets
+ │
+ └── 📚 BYJU'S  (Business Development — Feb–Apr 2023)
+         Stack   : MS Excel · Data Reporting
+         Impact  : ► Engaged 1000+ customers → +15% booking rate
+                   ► Daily performance tracking & Excel reporting
+```
+
+---
+
+## 🔬 Featured Analytics Projects
 
 <div align="center">
 
-| 🗂️ Project | 🔧 Tools | 📌 Highlights |
-|:---|:---:|:---|
-| [🔗 SQL Case Study — 8 Week Challenge](https://github.com/tiwariseema/SQL-case-study) | MySQL, SQL | Solutions to 8 complex real-world SQL business case studies covering restaurants, retail, and subscriptions |
-| [🔗 Pizza Sales Analysis](https://github.com/tiwariseema/Pizza_sales) | Excel, Power BI | End-to-end sales analysis with KPI tracking, revenue trends, and best/worst selling categories |
-| [🔗 Customer Churn Analysis](https://github.com/tiwariseema/Churn-Analysis) | Excel, Power BI | Customer retention analysis using cohort breakdowns and predictive churn indicators |
-| 🔗 LinkedIn Profile Analysis *(Personal)* | Power BI, DAX | Profile metrics dashboard using DAX formulas — visualizing engagement, reach, and follower growth |
-| 🔗 Accenture Social Buzz Analysis *(Virtual)* | Excel, PowerPoint | Merged 7 datasets, identified Top 5 content categories, and presented findings to stakeholders |
+| # | 📁 Project | 🛠️ Stack | 📌 Description | 🔗 |
+|:---:|:---|:---:|:---|:---:|
+| 01 | **SQL Case Study — 8 Week Challenge** | MySQL | Solutions to 8 complex real-world business case studies covering restaurants, subscriptions & retail | [→](https://github.com/tiwariseema/SQL-case-study) |
+| 02 | **Pizza Sales Dashboard** | Excel · Power BI | End-to-end pizza sales analysis — KPIs, revenue trends, best/worst sellers | [→](https://github.com/tiwariseema/Pizza_sales) |
+| 03 | **Customer Churn Analysis** | Excel · Power BI | Cohort-based churn analysis identifying at-risk customers and retention drivers | [→](https://github.com/tiwariseema/Churn-Analysis) |
+| 04 | **LinkedIn Profile Analytics** *(Personal)* | Power BI · DAX | Custom DAX measures to visualize impressions, reach, and engagement trends | — |
+| 05 | **Accenture Social Buzz** *(Forage)* | Excel · PPT | Merged 7 datasets · identified Top 5 content categories · C-suite presentation | — |
 
 </div>
 
 ---
 
-## 📊 GitHub Activity & Stats
+## 🏆 Certifications
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tiwariseema&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&icon_color=00e5ff&rank_icon=github" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiwariseema&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9" alt="Top Languages" width="49%" />
+| 🎓 Certificate | 🏛️ Issuing Body |
+|:---|:---:|
+| Google Data Analytics Professional Certificate | 🟦 Google / Coursera |
+| Advanced Excel | 🔴 Edureka |
+| SQL for Data Analytics | 🔴 Edureka |
+| Power BI | 🔴 Edureka |
+| Data Science & Business Analytics | ⚡ The Spark Foundation |
+| Data Analytics & Visualization Job Simulation | 🟪 Accenture / Forage |
 
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tiwariseema&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5ff&fire=ff6b6b&currStreakLabel=00e5ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" width="60%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tiwariseema&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&area_color=00e5ff&hide_border=true" alt="Contribution Graph" width="95%" />
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tiwariseema&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff&rank_icon=github&include_all_commits=true" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiwariseema&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" width="49%" alt="Top Languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=tiwariseema&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e" width="60%" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tiwariseema&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=0d3a4a&hide_border=true" width="95%" alt="Contribution Activity Graph" />
+
+</div>
+
+---
+
+## 🐍 My Contribution Snake
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tiwariseema/tiwariseema/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tiwariseema/tiwariseema/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/tiwariseema/tiwariseema/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/tiwariseema/tiwariseema/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
 ---
 
-## 🌐 Let's Connect!
+## 📬 Let's Collaborate on Data!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/contact-seema-tiwari)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiwariseema788@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tiwariseema)
+> 💡 *I'm always excited to connect with data professionals, hiring managers, and anyone who loves turning numbers into narratives.*
 
 <br/>
 
-📍 **Delhi, India** &nbsp;|&nbsp; 📧 tiwariseema788@gmail.com &nbsp;|&nbsp; 💼 Open to exciting Data Analytics opportunities!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/contact-seema-tiwari)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiwariseema788@gmail.com)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tiwariseema)
+
+<br/>
+
+📍 **Delhi, India** &nbsp;|&nbsp; 🕐 Available for Remote & Hybrid Roles
 
 </div>
 
@@ -218,8 +222,8 @@ Open To   : Data Analyst | BI Analyst | Program Analyst Roles
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
 
-*✨ "Data is a precious thing and will last longer than the systems themselves." – Tim Berners-Lee*
+*`-- Data tells a story. I make sure it's a compelling one.`*
 
 </div>
